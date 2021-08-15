@@ -57,11 +57,11 @@ a:hover {
 
 .column-1 {
   flex-shrink: 0;
-  flex-basis: 50%;
+  flex-basis: 40%;
 }
 .column-2 {
   flex-shrink: 0;
-  flex-basis: 40%;
+  flex-basis: 60%;
 }
 .box {
   margin: 1rem;
